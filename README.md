@@ -58,6 +58,24 @@ Compare performance across sellers, SKUs, time periods, or campaigns.
 Enable data-driven decisions for marketing strategies, pricing models, and demand forecasting.
 
 ## KPI's Requirement :
+- Analyze the Profits by Region.
+- Analyze the profits by Countries.
+- Channel review Analysis.
+- Number of orders per year.
+- Number of orders by priority.
+- The number of days of shipments by priority.
+- The Averag Revenue generated across the years.
+- Items wise Revenue generated , profit geneated , margins , Shipments and number of units sold.
+## Dashboard :
+![Screenshot 2025-06-13 235332](https://github.com/user-attachments/assets/15653b7b-0a28-4510-a6f8-9dde4c052716)
+![Screenshot 2025-06-13 235354](https://github.com/user-attachments/assets/09d41d7d-d93d-47c7-b133-469d5b6e96cf)
+![Screenshot 2025-06-13 235410](https://github.com/user-attachments/assets/47924d31-7db6-4b07-ba0d-a5d10c8c29d0)
+![Screenshot 2025-06-13 235434](https://github.com/user-attachments/assets/986f37fb-af17-41b6-82e5-af7b16dac63a)
+
+## DataSet of the project:
+<a href="https://github.com/AnuragBarkhane/Amazon-Sales-Dashboard/blob/main/Amazon%20Sales%20data_Amazon%20Sales%20data.csv">Dataset<a/>
+## Dashboard Interaction :
+<a href="https://github.com/AnuragBarkhane/Amazon-Sales-Dashboard">Dashboard<a/>
 
 
 
